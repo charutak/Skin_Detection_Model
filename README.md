@@ -2,7 +2,7 @@
 
 Comparative Study of Adaptive skin color detection algorithm based on YUV, YCbCr and YIQ model.
 
-                                                                                    - Charu Tak
+                                                                                    by - Charu Tak
 
 ##Instructions to use
 
